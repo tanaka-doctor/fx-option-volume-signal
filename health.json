@@ -1,8 +1,8 @@
 {
-  "execute_at_utc": "2026-09-11T15:00:00Z",
-  "generated_at_utc": "2026-09-11T12:11:12Z",
-  "report_date": "2026-09-10",
+  "execute_at_utc": null,
+  "generated_at_utc": "2026-09-11T16:25:55Z",
+  "report_date": null,
   "service": "fx-option-volume-ea",
-  "signal_id": "fxov-36558b7a5b398714d2fbe787c247c6b13259b6c8b5956740353b4523a2a2efa4",
-  "status": "ok"
+  "signal_id": null,
+  "status": "blocked"
 }
