@@ -1,8 +1,8 @@
 {
-  "execute_at_utc": "2026-09-14T15:00:00Z",
-  "generated_at_utc": "2026-09-14T13:59:01Z",
-  "report_date": "2026-09-11",
+  "execute_at_utc": "2026-09-15T15:00:00Z",
+  "generated_at_utc": "2026-09-15T12:38:34Z",
+  "report_date": "2026-09-14",
   "service": "fx-option-volume-ea",
-  "signal_id": "fxov-72afa48a12ded2fb4517b107ec69f69a10e58e911e2043cf0481a30f037e8102",
+  "signal_id": "fxov-31edb6ea4eab2f8913cb5340f6bfad5f6b19730d818b0672f61fd6e45041815f",
   "status": "ok"
 }

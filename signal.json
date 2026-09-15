@@ -1,32 +1,32 @@
 {
   "avol": {
-    "AUD": 0.05336237582395853,
-    "CAD": 0.12111778893938663,
-    "EUR": -0.045128213887160484,
-    "GBP": -0.113294426888352,
-    "JPY": 0.35026825296350594,
-    "NZD": 0.3087128933305294
+    "AUD": -0.010642759174089633,
+    "CAD": 0.07156970186946765,
+    "EUR": 0.2645938305864881,
+    "GBP": -0.026334349845448912,
+    "JPY": -0.323306240017704,
+    "NZD": 0.7128703457334531
   },
   "excluded_currencies": [
     "CHF"
   ],
-  "execute_at_london": "2026-09-14T16:00:00",
-  "execute_at_utc": "2026-09-14T15:00:00Z",
-  "generated_at_utc": "2026-09-14T13:59:01Z",
+  "execute_at_london": "2026-09-15T16:00:00",
+  "execute_at_utc": "2026-09-15T15:00:00Z",
+  "generated_at_utc": "2026-09-15T12:38:34Z",
   "lookback": 21,
-  "report_date": "2026-09-11",
+  "report_date": "2026-09-14",
   "schema_version": 1,
-  "signal_id": "fxov-72afa48a12ded2fb4517b107ec69f69a10e58e911e2043cf0481a30f037e8102",
+  "signal_id": "fxov-31edb6ea4eab2f8913cb5340f6bfad5f6b19730d818b0672f61fd6e45041815f",
   "signals": {
     "AUD": 0,
     "CAD": 0,
-    "EUR": 1,
+    "EUR": -1,
     "GBP": 1,
-    "JPY": -1,
+    "JPY": 1,
     "NZD": -1
   },
   "source": {
-    "file": "CFTC_CUMULATIVE_FOREX_2026_09_11.zip",
-    "sha256": "83ee486f4ee43b780d83edc98f83b507c3cf1ba4070ecd108f4d8cec2f644fad"
+    "file": "CFTC_CUMULATIVE_FOREX_2026_09_14.zip",
+    "sha256": "f28586ae18c1462e69dccc5ddb891d352ec2c4849c4afe9bcfc33c517e2a9427"
   }
 }
