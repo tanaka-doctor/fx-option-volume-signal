@@ -1,32 +1,6 @@
 {
-  "avol": {
-    "AUD": -0.3779159932008618,
-    "CAD": -0.07978938706333594,
-    "EUR": 0.5771100264036946,
-    "GBP": 0.5061369439385714,
-    "JPY": -0.15008583726278246,
-    "NZD": 0.125101748327463
-  },
-  "excluded_currencies": [
-    "CHF"
-  ],
-  "execute_at_london": "2026-09-18T16:00:00",
-  "execute_at_utc": "2026-09-18T15:00:00Z",
-  "generated_at_utc": "2026-09-18T12:13:00Z",
-  "lookback": 21,
-  "report_date": "2026-09-17",
+  "generated_at_utc": "2026-09-18T16:22:49Z",
+  "reason": "No complete executable report succeeded; 2026-09-17: Signal for 2026-09-17 is stale; use --allow-historical to write an archive without replacing the live signal",
   "schema_version": 1,
-  "signal_id": "fxov-3e9a2f3d88d32b7addece4cbd8c6b0224f72739ac322144390bdf2bb2e7c9ffb",
-  "signals": {
-    "AUD": 1,
-    "CAD": 0,
-    "EUR": -1,
-    "GBP": -1,
-    "JPY": 1,
-    "NZD": 0
-  },
-  "source": {
-    "file": "CFTC_CUMULATIVE_FOREX_2026_09_17.zip",
-    "sha256": "9ef2712b820d042516f1eb6b12d1750915c95b6d6bdad7758386d626c43eadf7"
-  }
+  "status": "blocked"
 }
