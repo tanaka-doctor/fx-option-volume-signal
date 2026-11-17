@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-16T16:57:36Z",
-  "reason": "No complete executable report succeeded; 2026-11-15: Signal for 2026-11-15 is stale; use --allow-historical to write an archive without replacing the live signal | 2026-11-14: Signal for 2026-11-14 is stale; use --allow-historical to write an archive without replacing the live signal | 2026-11-13: Signal for 2026-11-13 is stale; use --allow-historical to write an archive without replacing the live signal",
+  "generated_at_utc": "2026-11-17T16:51:08Z",
+  "reason": "No complete executable report succeeded; 2026-11-16: Signal for 2026-11-16 is stale; use --allow-historical to write an archive without replacing the live signal",
   "schema_version": 1,
   "status": "blocked"
 }
